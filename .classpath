@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/twitter4j-async-4.0.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/twitter4j-core-4.0.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/twitter4j-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/twitter4j-media-support-4.0.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/twitter4j-stream-4.0.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_51">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.2/appengine-java-sdk-1.9.2/lib/user/appengine-api-1.0-sdk-1.9.2.jar" sourcepath="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.2/appengine-java-sdk-1.9.2/src/user/appengine-api-1.0-sdk-1.9.2-src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.2/appengine-java-sdk-1.9.2/docs/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.2/appengine-java-sdk-1.9.2/lib/shared/servlet-api.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.2/appengine-java-sdk-1.9.2/docs/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
